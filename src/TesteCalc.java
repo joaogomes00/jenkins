@@ -10,7 +10,7 @@ class TesteCalc {
 	public void test() {
 		
 		double soma = cal.somar(2,3);
-		assertEquals(6,soma);
+		assertEquals(5,soma);
 	}
 
 }
